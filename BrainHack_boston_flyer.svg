@@ -168,7 +168,7 @@
      inkscape:window-x="279"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g4246" /><g
+     inkscape:current-layer="g4594" /><g
      id="g4246"
      inkscape:groupmode="layer"
      inkscape:label="OHBM_hackathon_2016.ai"
@@ -287,27 +287,27 @@
          transform="scale(1,-1)"
          style="font-variant:normal;font-weight:normal;font-size:29.00569916px;font-family:'Bauhaus 93';-inkscape-font-specification:Bauhaus93;writing-mode:lr-tb;fill:#6ebe44;fill-opacity:1;fill-rule:nonzero;stroke:none"
          id="text4596"
-         x="280.78479"
-         y="-509.8111"><tspan
+         x="286.56"
+         y="-504.85187"><tspan
            sodipodi:role="line"
            id="tspan4598"
-           x="280.78479"
-           y="-509.8111"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.6763649px;font-family:Avenir;-inkscape-font-specification:Avenir;fill:#ffffff;fill-opacity:1">BOSTON</tspan></text>
+           x="286.56"
+           y="-504.85187"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:43.51091003px;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';fill:#ffffff;fill-opacity:1">BOSTON</tspan></text>
 <text
-         y="-523.52722"
-         x="149.74677"
+         y="-524.23517"
+         x="149.02487"
          id="text10799"
          style="font-variant:normal;font-weight:normal;font-size:29.00569916px;font-family:'Bauhaus 93';-inkscape-font-specification:Bauhaus93;writing-mode:lr-tb;fill:#6ebe44;fill-opacity:1;fill-rule:nonzero;stroke:none"
          transform="scale(1,-1)"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:16.11515243px;font-family:Avenir;-inkscape-font-specification:'Avenir Heavy';text-align:center;text-anchor:middle;fill:#ff9400;fill-opacity:1"
-           y="-523.52722"
-           x="149.74677"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:16.11515236px;font-family:Avenir;-inkscape-font-specification:'Avenir Heavy';text-align:center;text-anchor:middle;fill:#ff9400;fill-opacity:1"
+           y="-524.23517"
+           x="149.02487"
            id="tspan10801"
            sodipodi:role="line">March 2-5, 2017</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:16.11515243px;font-family:Avenir;-inkscape-font-specification:'Avenir Heavy';text-align:center;text-anchor:middle;fill:#ff9400;fill-opacity:1"
-           y="-499.35449"
-           x="149.74677"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:16.11515236px;font-family:Avenir;-inkscape-font-specification:'Avenir Heavy';text-align:center;text-anchor:middle;fill:#ff9400;fill-opacity:1"
+           y="-504.09122"
+           x="149.02487"
            sodipodi:role="line"
            id="tspan10803">MIT</tspan></text>
 </g><g
@@ -2745,7 +2745,7 @@
            id="tspan6090">0</tspan></text>
 </g><g
        id="g6092"
-       transform="matrix(1.241068,0,0,1.241068,24.52576,0)"><text
+       transform="matrix(1.241068,0,0,1.241068,23.629832,-25.674069)"><text
          transform="matrix(1,0,0,-1,142.1147,530.3439)"
          style="font-variant:normal;font-weight:normal;font-size:1.47430003px;font-family:'Bauhaus 93';-inkscape-font-specification:Bauhaus93;writing-mode:lr-tb;fill:#6fbd44;fill-opacity:1;fill-rule:nonzero;stroke:none"
          id="text6094"><tspan
@@ -2755,7 +2755,7 @@
            id="tspan6096">0101001110</tspan></text>
 </g><g
        id="g6098"
-       transform="matrix(1.241068,0,0,1.241068,24.52576,0)"><text
+       transform="matrix(1.241068,0,0,1.241068,23.629832,-25.674069)"><text
          transform="matrix(1,0,0,-1,168.0182,530.3439)"
          style="font-variant:normal;font-weight:normal;font-size:1.47430003px;font-family:'Bauhaus 93';-inkscape-font-specification:Bauhaus93;writing-mode:lr-tb;fill:#6fbd44;fill-opacity:1;fill-rule:nonzero;stroke:none"
          id="text6100"><tspan
@@ -2765,7 +2765,7 @@
            id="tspan6102">11011011</tspan></text>
 </g><g
        id="g6104"
-       transform="matrix(1.241068,0,0,1.241068,24.52576,0)"><text
+       transform="matrix(1.241068,0,0,1.241068,23.629832,-23.478495)"><text
          transform="matrix(1,0,0,-1,168.9278,528.5748)"
          style="font-variant:normal;font-weight:normal;font-size:1.47430003px;font-family:'Bauhaus 93';-inkscape-font-specification:Bauhaus93;writing-mode:lr-tb;fill:#6fbd44;fill-opacity:1;fill-rule:nonzero;stroke:none"
          id="text6106"><tspan
