@@ -1,6 +1,6 @@
 # Projects
 
-Please submit a pr to [this repo](https://github.com/pwighton/brainhack-boston-2018) or email brainhackboston@gmail.com to add a project or to add your name as an interested party to an existing project.
+Please submit a pr to [this repo](https://github.com/brainhack-boston/brainhack-boston.github.io) or email `brainhackboston@gmail.com` to add a project or to add your name as an interested party to an existing project.
 
 ## Realtime visualization/analysis of BOLD data
 
