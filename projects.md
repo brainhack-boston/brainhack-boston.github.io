@@ -69,7 +69,7 @@ Most of the streamline white matter (WM) clustering methods focus on long range 
 Visualizing million of 3D curves inside the brain can be hard. The main goal of this project is to explore alternatives for visualizing white matter connections, such as short connections on the flat surface (or the ones cortical structures).
 
 ### Resources
-- [FreeSurfer-](https://github.com/freesurfer/freesurfer)
+- [FreeSurfer](https://github.com/freesurfer/freesurfer)
 
 ### Interested parties
 - Viviana Siless
