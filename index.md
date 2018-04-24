@@ -16,6 +16,15 @@ Comming soon.
 
 See the [projects page](projects.md)
 
+### Contribute
+- [Regsiter](https://goo.gl/de4J2P)
+- Submit [project](projects.md) ideas
+- [Post flyers](brainhack-boston-2018.pdf)
+
+### Resources
+
+Comming soon.
+
 ### Contact
 
 `brainhackboston@gmail.com`
