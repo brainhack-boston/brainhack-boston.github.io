@@ -12,6 +12,8 @@ Realtime fmri paradigms require a mechanism to stream BOLD data from the MR scan
 ### Interested parties
 - Paul Wighton
 
+---
+
 ## FreeSurfer and the Common Workflow Language
 
 The Common Workflow Language (CWL) is a specification for describing analysis workflows and tools in a way that makes them portable and scalable across a variety of software and hardware environments.  This project aims to specify FreeSurfer's recon-all stream in the common workflow language.  What is the best way to go about this and what does this enable?
@@ -23,3 +25,16 @@ The Common Workflow Language (CWL) is a specification for describing analysis wo
 
 ### Interested parties
 - Paul Wighton
+
+---
+
+## Nipype
+
+Nipype is a Python project that provides a uniform interface to existing neuroimaging software and facilitates interaction between these packages within a single workflow.
+
+### Resources
+- [Github](https://github.com/nipy/nipype)
+- [Interactive tutorial](https://miykael.github.io/nipype_tutorial/)
+- [Issues](https://github.com/nipy/nipype/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+label%3Agood-first-issue)
+
+---
