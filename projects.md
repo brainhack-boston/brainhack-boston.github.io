@@ -40,7 +40,7 @@ Nipype is a Python project that provides a uniform interface to existing neuroim
 ---
 ## TRACULA and Freesurfer cortical thickness
 
-TRACULA provides probabily maps of main white matteri (WM)  structures allowing for statistical analysis of miscrostructural information such as fractional anisotropy (FA) and mean/radial/axial diffusivity (MD/RD/AD). Changes in grey matter (GM) cortical thickness might have an impact on the connecting white matter and vice-versa. Integrating TRACULA with FreeSurfer cortical thickness analysis extend the WM/GM analysis.
+TRACULA provides probabily maps of main white matter (WM)  structures allowing for statistical analysis of miscrostructural information such as fractional anisotropy (FA) and mean/radial/axial diffusivity (MD/RD/AD). Changes in grey matter (GM) cortical thickness might have an impact on the connecting white matter and vice-versa. Integrating TRACULA with FreeSurfer cortical thickness analysis extend the WM/GM analysis.
 
 ### Resources
 - [TRACULA](https://surfer.nmr.mgh.harvard.edu/fswiki/Tracula)
