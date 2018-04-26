@@ -10,7 +10,7 @@ Organized in coordination with [BrainHack Global 2018](http://www.brainhack.org/
 
 ### Schedule
 
-Coming soon.
+![schedule](brainhack_schedule.png)
 
 ### Projects
 
