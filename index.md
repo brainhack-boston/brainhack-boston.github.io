@@ -23,8 +23,14 @@ See the [projects page](projects.md)
 
 ### Resources
 
-Coming soon.
+- [An Intro to Git and GitHub for Beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
+- [More github resources](https://guides.github.com/)
+- [A Docker tutorial for beginners](https://docker-curriculum.com/)
+- [ReproNim: A Center for Reproducible Neuroimaging Computation](http://www.reproducibleimaging.org/#training)
+  - [Version control systems](http://www.reproducibleimaging.org/module-reproducible-basics/02-vcs/)
+  - [Reproducible computational environments](http://www.reproducibleimaging.org/module-dataprocessing/04-containers/)
 
 ### Contact
 
-`brainhackboston@gmail.com`
+- Email: `brainhackboston@gmail.com`
+- Slack: [join the brainhack workspace](https://brainhack-slack-invite.herokuapp.com/), then add the channel `#bgh18-boston`
