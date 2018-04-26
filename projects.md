@@ -53,7 +53,7 @@ TRACULA provides probabily maps of main white matter (WM)  structures allowing f
 ---
 ## Group short connection streamlines based on cortical structures
 
-Most of the streamline white matter (WM) clustering methods focus on long range connection streamlines and little attention has been payed to short connection streamlines. Short connection streamlines can be correlated with cortical thickness changes. The goal is to compare the effect of grouping short connection streamlines based on cortical regions they connect, and compare it to grouping them based on a Euclidean space distance (spatial distance) or an anatomical distance such as the one defined in AnatomiCuts.
+Most of the streamline white matter (WM) clustering methods focus on long range connection streamlines and little attention has been payed to short connection streamlines. Short connection streamlines can be correlated with cortical thickness changes. The goal is to compare the effect of grouping short connection streamlines based on cortical regions they connect, and compare it to grouping them based on a spatial distance.
 
 ### Resources
 - [AnatomiCuts](https://www.ncbi.nlm.nih.gov/pubmed/29100937)
@@ -66,7 +66,7 @@ Most of the streamline white matter (WM) clustering methods focus on long range 
 ---
 ## Streamline visualization
 
-Visualizing million of 3D curves inside the brain can be hard. The main goal of this project is to explore alternatives for visualizing white matter connections, such as short connections on the flat surface (or the ones cortical structures).
+Visualizing million of 3D curves inside the brain can be hard. The main goal of this project is to explore alternatives for visualizing white matter connections, such as short connections on the flat surface.
 
 ### Resources
 - [FreeSurfer](https://github.com/freesurfer/freesurfer)
