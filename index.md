@@ -23,7 +23,9 @@ See the [projects page](projects.md)
 
 ### Resources
 
-Coming soon.
+- [An Intro to Git and GitHub for Beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
+- [More github resources](https://guides.github.com/)
+- [A Docker tutorial for beginners](https://docker-curriculum.com/)
 
 ### Contact
 
