@@ -29,4 +29,5 @@ See the [projects page](projects.md)
 
 ### Contact
 
-`brainhackboston@gmail.com`
+- Email: `brainhackboston@gmail.com`
+- Slack: [join the brainhack workspace](https://brainhack-slack-invite.herokuapp.com/), then add the channel `#bgh18-boston`
