@@ -29,6 +29,7 @@ See the [projects page](projects.md) for details
 
 ### Resources
 
+- [BrainHack 101](https://brainhack101.github.io)
 - [An Intro to Git and GitHub for Beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
 - [More github resources](https://guides.github.com/)
 - [A Docker tutorial for beginners](https://docker-curriculum.com/)
@@ -36,6 +37,7 @@ See the [projects page](projects.md) for details
   - [Version control systems](http://www.reproducibleimaging.org/module-reproducible-basics/02-vcs/)
   - [Reproducible computational environments](http://www.reproducibleimaging.org/module-dataprocessing/04-containers/)
 - [NeuroLinks](https://brainhack101.github.io/neurolinks/)
+- [NeuroData](https://neurodata.io/)
 
 ###  Conduct
 
