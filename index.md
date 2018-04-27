@@ -35,6 +35,7 @@ See the [projects page](projects.md) for details
 - [ReproNim: A Center for Reproducible Neuroimaging Computation](http://www.reproducibleimaging.org/#training)
   - [Version control systems](http://www.reproducibleimaging.org/module-reproducible-basics/02-vcs/)
   - [Reproducible computational environments](http://www.reproducibleimaging.org/module-dataprocessing/04-containers/)
+- [NeuroLinks](https://brainhack101.github.io/neurolinks/)
 
 ###  Conduct
 
