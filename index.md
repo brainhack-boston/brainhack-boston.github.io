@@ -16,6 +16,9 @@ Organized in coordination with [BrainHack Global 2018](http://www.brainhack.org/
 - [Realtime processing of BOLD data](projects.md#realtime-visualizationanalysis-of-bold-data)
 - [FreeSurfer and CWL](projects.md#freesurfer-and-the-common-workflow-language)
 - [Nipype](projects.md#nipype)
+- [Tracula and FreeSurfer cortical thickness](projects.md#tracula-and-freesurfer-cortical-thickness)
+- [Group short connection streamlines based on cortical structures](projects.md#group-short-connection-streamlines-based-on-cortical-structures)
+- [Streamline visualization](projects.md#streamline-visualization)
 
 See the [projects page](projects.md) for details
 
