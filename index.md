@@ -13,8 +13,14 @@ Organized in coordination with [BrainHack Global 2018](http://www.brainhack.org/
 ![schedule](brainhack_schedule.png)
 
 ### Projects
+- [Realtime processing of BOLD data](projects.md#realtime-visualizationanalysis-of-bold-data)
+- [FreeSurfer and CWL](projects.md#freesurfer-and-the-common-workflow-language)
+- [Nipype](projects.md#nipype)
+- [Tracula and FreeSurfer cortical thickness](projects.md#tracula-and-freesurfer-cortical-thickness)
+- [Group short connection streamlines based on cortical structures](projects.md#group-short-connection-streamlines-based-on-cortical-structures)
+- [Streamline visualization](projects.md#streamline-visualization)
 
-See the [projects page](projects.md)
+See the [projects page](projects.md) for details
 
 ### Contribute
 - [Register](https://goo.gl/de4J2P)
@@ -29,6 +35,10 @@ See the [projects page](projects.md)
 - [ReproNim: A Center for Reproducible Neuroimaging Computation](http://www.reproducibleimaging.org/#training)
   - [Version control systems](http://www.reproducibleimaging.org/module-reproducible-basics/02-vcs/)
   - [Reproducible computational environments](http://www.reproducibleimaging.org/module-dataprocessing/04-containers/)
+
+###  Conduct
+
+[Brainhack is dedicated to providing a harassment-free conference experience for everyone.](http://www.brainhack.org/global2018/codeofconduct.html)
 
 ### Contact
 
