@@ -30,6 +30,10 @@ See the [projects page](projects.md)
   - [Version control systems](http://www.reproducibleimaging.org/module-reproducible-basics/02-vcs/)
   - [Reproducible computational environments](http://www.reproducibleimaging.org/module-dataprocessing/04-containers/)
 
+###  Conduct
+
+[Brainhack is dedicated to providing a harassment-free conference experience for everyone.](http://www.brainhack.org/global2018/codeofconduct.html)
+
 ### Contact
 
 - Email: `brainhackboston@gmail.com`
