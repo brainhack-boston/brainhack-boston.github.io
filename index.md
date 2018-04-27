@@ -13,8 +13,11 @@ Organized in coordination with [BrainHack Global 2018](http://www.brainhack.org/
 ![schedule](brainhack_schedule.png)
 
 ### Projects
+- [Realtime processing of BOLD data](projects.md#realtime-visualizationanalysis-of-bold-data)
+- [FreeSurfer and CWL](projects.md#freesurfer-and-the-common-workflow-language)
+- [Nipype](projects.md#nipype)
 
-See the [projects page](projects.md)
+See the [projects page](projects.md) for details
 
 ### Contribute
 - [Register](https://goo.gl/de4J2P)
