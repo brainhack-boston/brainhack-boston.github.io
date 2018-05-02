@@ -22,6 +22,10 @@ Organized in coordination with [BrainHack Global 2018](http://www.brainhack.org/
 
 See the [projects page](projects.md) for details
 
+### Set up your laptop
+
+See the [setup page](setup.md) to learn how to install software we will use during the conference.
+
 ### Contribute
 - [Register](https://goo.gl/de4J2P)
 - Submit [project](projects.md) ideas
