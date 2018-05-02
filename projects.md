@@ -74,4 +74,33 @@ Visualizing million of 3D curves inside the brain can be hard. The main goal of 
 ### Interested parties
 - Viviana Siless
 
+---
+## RegTest
+
+We created a robustness testing framework to analyze performance of specific analyses in varied computational environments. To build tests, information about three components are specified using a JSON file: requested computational environments; scripts to run the analysis; and tests to compare workflow output to a reference output. Neurdocker creates Docker test environments, and the Common Workflow Language (CWL) is used to run all steps. The comparison step uses existing or user provided tests. The framework currently uses GitHub and CircleCI for integration and visualizing comparisons.
+
+I want to work mostly on the visualization part that uses JavaScript and D3 and scattering options with CWL.
+
+### Resources
+- [RegTest](https://github.com/ReproNim/regtests)
+- [CWL](https://www.commonwl.org/)
+
+### Interested parties
+- Dorota Jarecka
+
+---
+## Hacking the scientists brains
+
+Any idea how to convince more scientist to join the Brainhack Global next year?? Anything else would you like to hack in the scientists brains?? Share your ideas. 
+It can be used as a GitHub exercise ;-)
+
+### Resources
+- [Hacking the scientists brains](https://github.com/djarecka/hacking_the_scientists_brains)
+
+### Interested parties
+- Dorota Jarecka
+
+
+
+
 
