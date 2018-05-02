@@ -87,6 +87,7 @@ I want to work mostly on the visualization part that uses JavaScript and D3 and 
 
 ### Interested parties
 - Dorota Jarecka
+- Paul Wighton
 
 ---
 ## Hacking the scientists brains
@@ -99,7 +100,20 @@ It can be used as a GitHub exercise ;-)
 
 ### Interested parties
 - Dorota Jarecka
+- Paul Wighton
 
+---
+## DICOM outputs for FreeSurfer
+
+dcmqi (DICOM for Quantitative Imaging) is a library that implements conversion between commonly used imaging research formats and the standard DICOM representation.  We have already converted FreeSurfer's subcortical segmentation (`aseg.mgz`) to DICOM-SEG.  Can we convert the statistics to DICOM-SR?
+
+### Resources
+- [fs2dicom](https://github.com/corticometrics/fs2dicom)
+- [dcmqi](https://github.com/djarecka/hacking_the_scientists_brains)
+- [FreeSurfer](https://github.com/freesurfer/freesurfer)
+
+### Interested parties
+- Paul Wighton
 
 
 
