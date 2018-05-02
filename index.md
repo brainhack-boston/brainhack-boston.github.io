@@ -19,6 +19,9 @@ Organized in coordination with [BrainHack Global 2018](http://www.brainhack.org/
 - [Tracula and FreeSurfer cortical thickness](projects.md#tracula-and-freesurfer-cortical-thickness)
 - [Group short connection streamlines based on cortical structures](projects.md#group-short-connection-streamlines-based-on-cortical-structures)
 - [Streamline visualization](projects.md#streamline-visualization)
+- [RegTest](projects.md#regtest)
+- [Hacking the scientists brains](projects.md#hacking-the-scientists-brains)
+- [DICOM outputs for FreeSurfer](projects.md#dicom-outputs-for-freesurfer)
 
 See the [projects page](projects.md) for details
 
