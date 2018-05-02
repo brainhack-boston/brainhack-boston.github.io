@@ -49,4 +49,4 @@ See the [projects page](projects.md) for details
 ### Contact
 
 - Email: `brainhackboston@gmail.com`
-- Slack: [join the brainhack workspace](https://brainhack-slack-invite.herokuapp.com/), then add the channel `#bgh18-boston`
+- Slack: [join the brainhack workspace](https://brainhack-slack-invite.herokuapp.com/), then add the channel `#bhg18-boston`
