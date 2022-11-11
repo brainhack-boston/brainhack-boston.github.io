@@ -35,5 +35,7 @@ See the [open issues](https://github.com/brainhack-boston/brainhack-boston.githu
 
 ### Contact
 
-- Email: `brainhackboston@gmail.com`
+- Email: 
+  - Paul Wighton `pwighton@mgh.harvard.edu`
+  - Dorota Jarecka `djarecka@mit.edu`
 - [Mattermost Channel](https://mattermost.brainhack.org/brainhack/channels/bhg22-boston)
