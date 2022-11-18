@@ -16,6 +16,7 @@ More details to follow. Please reach out to `pwighton@mgh.harvard.edu` or `djare
 
 - 9:30am - 10:00am: Coffee/Snacks
 - 10:00am - 10:30am: Introductions, Project pitches
+- 2:00pm - 2:30pm: Tools for Data Annotation by [David Kennedy](https://profiles.umassmed.edu/display/130002)
 - 10:30am - 4:00pm: Unstructured hacking time
 - 4:00pm - onwards: Social? (TBD)
 
