@@ -10,7 +10,20 @@ Organized in coordination with [BrainHack Global 2022](https://brainhack.org/glo
 
 ### Schedule
 
-TBD
+More details to follow. Please reach out to `pwighton@mgh.harvard.edu` or `djarecka@mit.edu` if you would like to give a talk or training session.
+
+#### Thurs Dec 8th
+
+- 9:30am - 10:00am: Coffee/Snacks
+- 10:00am - 10:30am: Introductions, Project pitches
+- 10:30am - 4:00pm: Unstructured hacking time
+- 4:00pm - onwards: Social? (TBD)
+
+#### Fri Dec 9th
+
+- 9:30am - 10:30am: Coffee/Snacks
+- 10:30am - 11:00am: Introduction to [PetSurfer](https://surfer.nmr.mgh.harvard.edu/fswiki/PetSurfer) by [Doug Greve](https://researchers.mgh.harvard.edu/profile/5476867/Douglas-Greve)
+- 11:00am - 4:00pm: Unstructured hacking time
 
 ### Projects
 
@@ -28,6 +41,11 @@ See the [open issues](https://github.com/brainhack-boston/brainhack-boston.githu
 - [NeuroData](https://neurodata.io/)
 - [OpenNeuro](https://openneuro.org/)
 - [BIDS](https://bids.neuroimaging.io/)
+- [NeuroDesk](https://www.neurodesk.org/)
+  - [Try it out in the BrainHack cloud](https://bhnam.neurodesk.org/)
+    - Authenticate via github
+    - 32CPUs, 500GB of scratch and 256GB RAM
+    - Thank-you to @sbollmann_mri for setting this up! :heart:
 
 ###  Conduct
 
