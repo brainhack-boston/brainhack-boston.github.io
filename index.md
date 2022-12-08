@@ -20,15 +20,19 @@ space outside of room 3310, or in room 5313.
 - 9:30am - 10:00am: Coffee/Snacks
 - 10:00am - 10:30am: Introductions, Project pitches
 - 2:00pm - 2:30pm: Tools for Data Annotation by [David Kennedy](https://profiles.umassmed.edu/display/130002)
+- 2:30pm - 3:00pm: short presentations
 - 10:30am - 4:00pm: Unstructured hacking time
 - 4:00pm - onwards: Social? (TBD)
 
 #### Fri Dec 9th
+Building 46 @ MIT (the Brain and Cognitive Sciences building). Seminar room 3310 all day.
 
-- 9:30am - 10:30am: Coffee/Snacks
+- 9:00am: Coffee/Snacks
+- 9:00am - 10:30am: Unstructured hacking time
 - 10:30am - 11:00am: Introduction to [PetSurfer](https://surfer.nmr.mgh.harvard.edu/fswiki/PetSurfer) by [Doug Greve](https://researchers.mgh.harvard.edu/profile/5476867/Douglas-Greve)
 - 11:00am - 11:30am: [FSuB Extractor](https://github.com/smeisler/fsub_extractor): Multimodal MRI Software for Extracting **F**unctional **Su**b-Components of **B**undles by [Steven Meisler](https://scholar.harvard.edu/steven-meisler/home)
-- 11:00am - 4:00pm: Unstructured hacking time
+- 11:00am - 3:30pm: Unstructured hacking time
+- 3:30pm - 4:30pm: Projects summary
 
 ### Projects
 
