@@ -14,6 +14,9 @@ More details to follow. Please reach out to `pwighton@mgh.harvard.edu` or `djare
 
 #### Thurs Dec 8th
 
+Building 46 @ MIT (the Brain and Cognitive Sciences building). Seminar room 3310 from 9:30am until 11:00am. Thereafter in thepublic 
+space outside of room 3310, or in room 5313.
+
 - 9:30am - 10:00am: Coffee/Snacks
 - 10:00am - 10:30am: Introductions, Project pitches
 - 2:00pm - 2:30pm: Tools for Data Annotation by [David Kennedy](https://profiles.umassmed.edu/display/130002)
