@@ -1,18 +1,23 @@
-## BrainHack Boston 2022
+## Brainhack Boston 2023
 
-Dec 8th and 9th, 2022 | [Building 46 - MIT](https://whereis.mit.edu/?zoom=16&lat=42.363516886938655&lng=-71.09164294&maptype=mit&q=building%2046&open=object-46) | [Register](https://forms.gle/Dc5pp29EsssEFPLM8)
+Dec 11th and 13th, 2023 | [Building 46 - MIT](https://whereis.mit.edu/?zoom=16&lat=42.363516886938655&lng=-71.09164294&maptype=mit&q=building%2046&open=object-46) | [Register](https://forms.gle/Dc5pp29EsssEFPLM8)
 
-Organized in coordination with [BrainHack Global 2022](https://brainhack.org/global2022/)
+Organized in coordination with [BrainHack Global 2023](https://brainhack.org/global2023/)
 
 ### About
 
 *Brainhack Global* is a unique conference that convenes researchers from across the globe and a myriad of disciplines to work together on innovative projects related to neuroscience.
 
+*Brainhack Boston 2023* is inspired by the [BRAIN Initiative CONNECTS program](https://www.ninds.nih.gov/news-events/highlights-announcements/nih-brain-initiative-launches-projects-develop-innovative-technologies-map-brain-incredible-detail), and particularly [CONNECTS projects on multi-modal imaging of fiber tracts](https://reporter.nih.gov/search/3TvO-D_5_0-AyCKL3EMDUg/projects). Topics of potential interest include:
+- Remote computation and visualization for large datasets
+- Integration of imaging data across modalities and scales
+- Standardization and visualization of fiber tract data
+
 ### Schedule
 
-More details to follow. Please reach out to `pwighton@mgh.harvard.edu` or `djarecka@mit.edu` if you would like to give a talk or training session.
+The schedule below is from last year. Stay tuned for updates!
 
-#### Thurs Dec 8th
+#### Thurs Dec 8th, 2022
 
 Building 46 @ MIT (the Brain and Cognitive Sciences building). Seminar room 3310 from 9:30am until 11:00am. Thereafter in thepublic 
 space outside of room 3310, or in room 5313.
@@ -24,7 +29,8 @@ space outside of room 3310, or in room 5313.
 - 10:30am - 4:00pm: Unstructured hacking time
 - 4:00pm - onwards: Social? (TBD)
 
-#### Fri Dec 9th
+#### Fri Dec 9th, 2022
+
 Building 46 @ MIT (the Brain and Cognitive Sciences building). Seminar room 3310 all day.
 
 - 9:00am: Coffee/Snacks
@@ -63,6 +69,6 @@ See the [open issues](https://github.com/brainhack-boston/brainhack-boston.githu
 ### Contact
 
 - Email: 
-  - Paul Wighton `pwighton@mgh.harvard.edu`
-  - Dorota Jarecka `djarecka@mit.edu`
-- [Mattermost Channel](https://mattermost.brainhack.org/brainhack/channels/bhg22-boston)
+  - Kabilar Gunalan `kabi@mit.edu`
+  - Anastasia Yendiki `ayendiki@mgh.harvard.edu`
+- [Mattermost Channel](https://mattermost.brainhack.org/brainhack/channels/bhg23-boston)
