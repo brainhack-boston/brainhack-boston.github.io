@@ -1,12 +1,9 @@
-## Brainhack Boston 2023
-
-Dec 11th and 13th, 2023
-
 [MIT Building 46](https://whereis.mit.edu/?zoom=16&lat=42.363516886938655&lng=-71.09164294&maptype=mit&q=building%2046&open=object-46) and virtually 
 
 Organized in coordination with [BrainHack Global 2023](https://brainhack.org/global2023/)
 
 ### Register
+
 If you are interested in participating, please fill out [this short form.](https://forms.gle/Qurc8KkAsRMJbmCi9)
 
 ### About
@@ -20,7 +17,11 @@ If you are interested in participating, please fill out [this short form.](https
 
 ### Schedule
 
-The schedule below is from last year. Stay tuned for updates!
+- Monday, December 11th and Wednesday, December 13th, 2023
+
+- The schedule below is from last year. Stay tuned for updates!
+
+[Building 46 - MIT](https://whereis.mit.edu/?zoom=16&lat=42.363516886938655&lng=-71.09164294&maptype=mit&q=building%2046&open=object-46)
 
 #### Thurs Dec 8th, 2022
 
