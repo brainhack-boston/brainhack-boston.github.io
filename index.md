@@ -21,8 +21,6 @@ If you are interested in participating, please fill out [this short form.](https
 
 - The schedule below is from last year. Stay tuned for updates!
 
-[Building 46 - MIT](https://whereis.mit.edu/?zoom=16&lat=42.363516886938655&lng=-71.09164294&maptype=mit&q=building%2046&open=object-46)
-
 #### Thurs Dec 8th, 2022
 
 Building 46 @ MIT (the Brain and Cognitive Sciences building). Seminar room 3310 from 9:30am until 11:00am. Thereafter in thepublic 
