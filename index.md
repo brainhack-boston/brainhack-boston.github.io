@@ -1,4 +1,10 @@
+[MIT Building 46](https://whereis.mit.edu/?zoom=16&lat=42.363516886938655&lng=-71.09164294&maptype=mit&q=building%2046&open=object-46) and virtually 
+
 Organized in coordination with [BrainHack Global 2023](https://brainhack.org/global2023/)
+
+### Register
+
+If you are interested in participating, please fill out [this short form.](https://forms.gle/Qurc8KkAsRMJbmCi9)
 
 ### About
 
@@ -8,10 +14,6 @@ Organized in coordination with [BrainHack Global 2023](https://brainhack.org/glo
 - Remote computation and visualization for large datasets
 - Integration of imaging data across modalities and scales
 - Standardization and visualization of fiber tract data
-
-### Registration
-
-- [Registration form](https://forms.gle/5mewJZ6YvqPUzodb9)
 
 ### Schedule
 
