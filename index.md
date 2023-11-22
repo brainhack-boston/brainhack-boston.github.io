@@ -1,7 +1,3 @@
-## Brainhack Boston 2023
-
-Dec 11th and 13th, 2023 | [Building 46 - MIT](https://whereis.mit.edu/?zoom=16&lat=42.363516886938655&lng=-71.09164294&maptype=mit&q=building%2046&open=object-46) | [Register](https://forms.gle/Dc5pp29EsssEFPLM8)
-
 Organized in coordination with [BrainHack Global 2023](https://brainhack.org/global2023/)
 
 ### About
@@ -13,9 +9,17 @@ Organized in coordination with [BrainHack Global 2023](https://brainhack.org/glo
 - Integration of imaging data across modalities and scales
 - Standardization and visualization of fiber tract data
 
+### Registration
+
+- [Registration form](https://forms.gle/5mewJZ6YvqPUzodb9)
+
 ### Schedule
 
-The schedule below is from last year. Stay tuned for updates!
+- Monday, December 11th and Wednesday, December 13th, 2023
+
+- The schedule below is from last year. Stay tuned for updates!
+
+[Building 46 - MIT](https://whereis.mit.edu/?zoom=16&lat=42.363516886938655&lng=-71.09164294&maptype=mit&q=building%2046&open=object-46)
 
 #### Thurs Dec 8th, 2022
 
