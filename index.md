@@ -19,7 +19,7 @@ If you are interested in participating, please fill out [this short form.](https
 
 - Monday, December 11th and Wednesday, December 13th, 2023
 
-- The schedule below is from last year. Stay tuned for updates!
+- The schedule below is from last year. The 2023 schedule will include talks/demos on [brainlife](https://brainlife.io/about/), freebrowse, [neuroglancer](https://github.com/google/neuroglancer/#readme), and [niivue](https://github.com/niivue/niivue#readme). Stay tuned for updates!
 
 #### Thurs Dec 8th, 2022
 
