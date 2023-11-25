@@ -76,3 +76,11 @@ See the [open issues](https://github.com/brainhack-boston/brainhack-boston.githu
   - Kabilar Gunalan `kabi@mit.edu`
   - Anastasia Yendiki `ayendiki@mgh.harvard.edu`
 - [Mattermost Channel](https://mattermost.brainhack.org/brainhack/channels/bhg23-boston)
+
+### Acknowledgements
+
+We would like to thank our funders and institutions for supporting this event.
+
+- NIH BRAIN CONNECTS - The center for Large-scale Imaging of Neural Circuits (LINC) (UM1 NS132358)
+- NIH BRAIN CONNECTS - Center for Mesoscale Connectomics (UM1 NS132207)
+- Massachusetts Institute of Technology
