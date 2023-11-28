@@ -34,7 +34,7 @@ Building 46 (Brain and Cognitive Sciences) @ MIT. Room TBD.
 
 Building 46 (Brain and Cognitive Sciences) @ MIT. Room TBD.
 
-- 9:30am - 9:50am: [niivue](https://github.com/niivue/niivue#readme) - Chris Rorden [slides](https://docs.google.com/presentation/d/1s8fWo5gkbJEo7Fl7CF1Nb6JWJZqFJ_BgHDsla_WjTx4/)
+- 9:30am - 9:50am: [niivue](https://github.com/niivue/niivue#readme) - Chris Rorden [[slides](https://docs.google.com/presentation/d/1s8fWo5gkbJEo7Fl7CF1Nb6JWJZqFJ_BgHDsla_WjTx4/)]
 - 9:50am - 10:10am: freebrowse - Paul Wighton
 - 10:10am - 10:30am: [brainlife](https://brainlife.io/about/) - Ilaria Sani & Sophia Vinci-Booher
 - 10:30am - 10:50am: TBD
