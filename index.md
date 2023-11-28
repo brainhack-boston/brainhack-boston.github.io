@@ -22,7 +22,7 @@ If you are interested in participating, please fill out [this short form.](https
 
 Building 46 (Brain and Cognitive Sciences) @ MIT. Room TBD.
 
-- 9:30am - 9:50am: Welcome/intro to CONNECTS multi-model imaging projects - Anastasia Yendiki
+- 9:30am - 9:50am: Welcome/intro to CONNECTS multi-modal imaging projects - Anastasia Yendiki
 - 9:50am - 10:10am: [BIDS connectivity standard](https://osf.io/u4g5p/) - Peer Herholz
 - 10:10am - 10:30am: [DANDI archive](https://dandiarchive.org/) - Kabilar Gunalan
 - 10:30am - 10:50am: [Neuroglancer](https://github.com/google/neuroglancer/#readme) - Yael Balbastre
@@ -81,4 +81,5 @@ We would like to thank our funders and institutions for supporting this event.
 
 - NIH BRAIN CONNECTS - The center for Large-scale Imaging of Neural Circuits (LINC) (UM1 NS132358)
 - NIH BRAIN CONNECTS - Center for Mesoscale Connectomics (UM1 NS132207)
+- NIH BRAIN CONNECTS - Mapping connectivity of the human brainstem in a nuclear coordinate system (U01 NS132181)
 - Massachusetts Institute of Technology
