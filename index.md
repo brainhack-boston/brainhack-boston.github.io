@@ -16,33 +16,31 @@ If you are interested in participating, please fill out [this short form.](https
 - Standardization and visualization of fiber tract data
 
 ### Schedule
+- All times below are EST.
 
-- Monday, December 11th and Wednesday, December 13th, 2023
+#### Monday, December 11th, 2023
 
-- The schedule below is from last year. The 2023 schedule will include talks/demos on [brainlife](https://brainlife.io/about/), freebrowse, [neuroglancer](https://github.com/google/neuroglancer/#readme), and [niivue](https://github.com/niivue/niivue#readme). Stay tuned for updates!
+Building 46 (Brain and Cognitive Sciences) @ MIT. Room TBD.
 
-#### Thurs Dec 8th, 2022
+- 9:30am - 9:50am: Welcome/intro to CONNECTS multi-model imaging projects - Anastasia Yendiki
+- 9:50am - 10:10am: [BIDS connectivity standard](https://osf.io/u4g5p/) - Peer Herholz
+- 10:10am - 10:30am: [DANDI archive](https://dandiarchive.org/) - Kabilar Gunalan
+- 10:30am - 10:50am: [Neuroglancer](https://github.com/google/neuroglancer/#readme) - Yael Balbastre
+- 10:50am - 11:00am: Break
+- 11:00am - 11:15am: Project pitches
+- 11:15am - 4:00pm: Unstructured hacking time
 
-Building 46 @ MIT (the Brain and Cognitive Sciences building). Seminar room 3310 from 9:30am until 11:00am. Thereafter in thepublic 
-space outside of room 3310, or in room 5313.
+#### Wednesday, December 13th, 2023
 
-- 9:30am - 10:00am: Coffee/Snacks
-- 10:00am - 10:30am: Introductions, Project pitches
-- 2:00pm - 2:30pm: Tools for Data Annotation by [David Kennedy](https://profiles.umassmed.edu/display/130002)
-- 2:30pm - 3:00pm: short presentations
-- 10:30am - 4:00pm: Unstructured hacking time
+Building 46 (Brain and Cognitive Sciences) @ MIT. Room TBD.
+
+- 9:30am - 9:50am: [niivue](https://github.com/niivue/niivue#readme) - Chris Rorden
+- 9:50am - 10:10am: freebrowse - Paul Wighton
+- 10:10am - 10:30am: [brainlife](https://brainlife.io/about/) - Ilaria Sani & Sophia Vinci-Booher
+- 10:30am - 10:50am: TBD
+- 10:50am - 3:30pm: Unstructured hacking time
+- 3:30pm - 4:00pm: Project summaries
 - 4:00pm - onwards: Social? (TBD)
-
-#### Fri Dec 9th, 2022
-
-Building 46 @ MIT (the Brain and Cognitive Sciences building). Seminar room 3310 all day.
-
-- 9:00am: Coffee/Snacks
-- 9:00am - 10:30am: Unstructured hacking time
-- 10:30am - 11:00am: Introduction to [PetSurfer](https://surfer.nmr.mgh.harvard.edu/fswiki/PetSurfer) by [Doug Greve](https://researchers.mgh.harvard.edu/profile/5476867/Douglas-Greve)
-- 11:00am - 11:30am: [FSuB Extractor](https://github.com/smeisler/fsub_extractor): Multimodal MRI Software for Extracting **F**unctional **Su**b-Components of **B**undles by [Steven Meisler](https://scholar.harvard.edu/steven-meisler/home)
-- 11:00am - 3:30pm: Unstructured hacking time
-- 3:30pm - 4:30pm: Projects summary
 
 ### Projects
 
