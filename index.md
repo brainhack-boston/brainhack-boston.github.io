@@ -20,7 +20,7 @@ If you are interested in participating, please fill out [this short form.](https
 
 #### Monday, December 11th, 2023
 
-Building 46 (Brain and Cognitive Sciences) @ MIT. Room TBD.
+Building 46 (Brain and Cognitive Sciences) @ MIT. PILM Room 4300.
 
 - 9:30am - 9:50am: Welcome/intro to CONNECTS multi-modal imaging projects - Anastasia Yendiki
 - 9:50am - 10:10am: [BIDS connectivity standard](https://osf.io/u4g5p/) - Peer Herholz
@@ -32,7 +32,7 @@ Building 46 (Brain and Cognitive Sciences) @ MIT. Room TBD.
 
 #### Wednesday, December 13th, 2023
 
-Building 46 (Brain and Cognitive Sciences) @ MIT. Room TBD.
+Building 46 (Brain and Cognitive Sciences) @ MIT. MIBR Room 4199.
 
 - 9:30am - 9:50am: [niivue](https://github.com/niivue/niivue#readme) - Chris Rorden [[slides](https://docs.google.com/presentation/d/1s8fWo5gkbJEo7Fl7CF1Nb6JWJZqFJ_BgHDsla_WjTx4/)]
 - 9:50am - 10:10am: freebrowse - Paul Wighton
