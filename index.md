@@ -1,12 +1,10 @@
-[MIT Building 46](https://whereis.mit.edu/?zoom=16&lat=42.363516886938655&lng=-71.09164294&maptype=mit&q=building%2046&open=object-46) and virtually 
-
-Organized in coordination with [BrainHack Global 2023](https://brainhack.org/global2023/)
-
 ### Register
 
 If you are interested in participating, please fill out [this short form.](https://forms.gle/Qurc8KkAsRMJbmCi9)
 
 ### About
+
+Brainhack Boston is organized in coordination with [Brainhack Global 2023](https://brainhack.org/global2023/).
 
 *Brainhack Global* is a unique conference that convenes researchers from across the globe and a myriad of disciplines to work together on innovative projects related to neuroscience.
 
@@ -20,7 +18,7 @@ If you are interested in participating, please fill out [this short form.](https
 
 #### Monday, December 11th, 2023
 
-Building 46 (Brain and Cognitive Sciences) @ MIT. Room TBD.
+[Building 46](https://whereis.mit.edu/?zoom=16&lat=42.363516886938655&lng=-71.09164294&maptype=mit&q=building%2046&open=object-46) (Brain and Cognitive Sciences) @ MIT. PILM Room 4300.
 
 - 9:30am - 9:50am: Welcome/intro to CONNECTS multi-modal imaging projects - Anastasia Yendiki
 - 9:50am - 10:10am: [BIDS connectivity standard](https://osf.io/u4g5p/) - Peer Herholz
@@ -32,7 +30,7 @@ Building 46 (Brain and Cognitive Sciences) @ MIT. Room TBD.
 
 #### Wednesday, December 13th, 2023
 
-Building 46 (Brain and Cognitive Sciences) @ MIT. Room TBD.
+[Building 46](https://whereis.mit.edu/?zoom=16&lat=42.363516886938655&lng=-71.09164294&maptype=mit&q=building%2046&open=object-46) (Brain and Cognitive Sciences) @ MIT. MIBR Room 4199.
 
 - 9:30am - 9:50am: [niivue](https://github.com/niivue/niivue#readme) - Chris Rorden [[slides](https://docs.google.com/presentation/d/1s8fWo5gkbJEo7Fl7CF1Nb6JWJZqFJ_BgHDsla_WjTx4/)]
 - 9:50am - 10:10am: freebrowse - Paul Wighton
