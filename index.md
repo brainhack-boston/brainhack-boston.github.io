@@ -33,9 +33,9 @@ Brainhack Boston is organized in coordination with [Brainhack Global 2023](https
 [Building 46](https://whereis.mit.edu/?zoom=16&lat=42.363516886938655&lng=-71.09164294&maptype=mit&q=building%2046&open=object-46) (Brain and Cognitive Sciences) @ MIT. MIBR Room 4199.
 
 - 9:30am - 9:50am: [niivue](https://github.com/niivue/niivue#readme) - Chris Rorden [[slides](https://docs.google.com/presentation/d/1s8fWo5gkbJEo7Fl7CF1Nb6JWJZqFJ_BgHDsla_WjTx4/)]
-- 9:50am - 10:10am: freebrowse - Paul Wighton
-- 10:10am - 10:30am: [brainlife](https://brainlife.io/about/) - Ilaria Sani & Sophia Vinci-Booher
-- 10:30am - 10:50am: TBD
+- 9:50am - 10:10am: [TRAKO](https://pypi.org/project/trako/) - Daniel Haehn
+- 10:10am - 10:30am: [brainlife](https://brainlife.io/about/) - Ilaria Sani
+- 10:30am - 10:50am: freebrowse - Paul Wighton
 - 10:50am - 3:30pm: Unstructured hacking time
 - 3:30pm - 4:00pm: Project summaries
 - 4:00pm - onwards: Social? (TBD)
