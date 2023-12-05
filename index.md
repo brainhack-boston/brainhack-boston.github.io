@@ -4,7 +4,7 @@ If you are interested in participating, please fill out [this short form.](https
 
 ### About
 
-Brainhack Boston is organized in coordination with [Brainhack Global 2023](https://brainhack.org/global2023/).
+*Brainhack Boston 2023* is organized in coordination with [Brainhack Global 2023](https://brainhack.org/global2023/).
 
 *Brainhack Global* is a unique conference that convenes researchers from across the globe and a myriad of disciplines to work together on innovative projects related to neuroscience.
 
@@ -12,6 +12,12 @@ Brainhack Boston is organized in coordination with [Brainhack Global 2023](https
 - Remote computation and visualization for large datasets
 - Integration of imaging data across modalities and scales
 - Standardization and visualization of fiber tract data
+
+### Projects
+
+- See the [open GitHub issues](https://github.com/brainhack-boston/brainhack-boston.github.io/issues).  Feel free to open an issue and describe a project that you are interested in working on!
+
+- Please join our [Mattermost Channel](https://mattermost.brainhack.org/brainhack/channels/bhg23-boston) which will be used during the event.
 
 ### Schedule
 - All times below are EST.
@@ -39,28 +45,6 @@ Brainhack Boston is organized in coordination with [Brainhack Global 2023](https
 - 10:50am - 3:30pm: Unstructured hacking time
 - 3:30pm - 4:00pm: Project summaries
 - 4:00pm - onwards: Social? (TBD)
-
-### Projects
-
-See the [open issues](https://github.com/brainhack-boston/brainhack-boston.github.io/issues) in this git repository.  Feel free to open an issue and describe a project you're interested in working on!
-
-### Resources
-
-- [About BrainHack](https://brainhack.org/about.html#:~:text=The%20purpose%20of%20Brainhack%20is,innovative%20projects%20related%20to%20neuroscience.)
-- [An Intro to Git and GitHub for Beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
-- [Github resources](https://guides.github.com/)
-- [A Docker tutorial for beginners](https://docker-curriculum.com/)
-- [ReproNim: A Center for Reproducible Neuroimaging Computation](http://www.reproducibleimaging.org/#training)
-  - [Version control systems](http://www.reproducibleimaging.org/module-reproducible-basics/02-vcs/)
-  - [Reproducible computational environments](http://www.reproducibleimaging.org/module-dataprocessing/04-containers/)
-- [NeuroData](https://neurodata.io/)
-- [OpenNeuro](https://openneuro.org/)
-- [BIDS](https://bids.neuroimaging.io/)
-- [NeuroDesk](https://www.neurodesk.org/)
-  - [Try it out in the BrainHack cloud](https://bhnam.neurodesk.org/)
-    - Authenticate via github
-    - 32CPUs, 500GB of scratch and 256GB RAM
-    - Thank-you to @sbollmann_mri for setting this up! :heart:
 
 ###  Conduct
 
