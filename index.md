@@ -26,6 +26,7 @@ If you are interested in participating, please fill out [this short form.](https
 
 [Building 46](https://whereis.mit.edu/?zoom=16&lat=42.363516886938655&lng=-71.09164294&maptype=mit&q=building%2046&open=object-46) (Brain and Cognitive Sciences) @ MIT. PILM Room 4300.
 
+- 9:00am - 9:30am: Coffee and pastries
 - 9:30am - 9:50am: Welcome/intro to CONNECTS multi-modal imaging projects - Anastasia Yendiki
 - 9:50am - 10:10am: [BIDS connectivity standard](https://osf.io/u4g5p/) - Peer Herholz
 - 10:10am - 10:30am: [DANDI archive](https://dandiarchive.org/) - Kabilar Gunalan
@@ -38,6 +39,7 @@ If you are interested in participating, please fill out [this short form.](https
 
 [Building 46](https://whereis.mit.edu/?zoom=16&lat=42.363516886938655&lng=-71.09164294&maptype=mit&q=building%2046&open=object-46) (Brain and Cognitive Sciences) @ MIT. MIBR Room 4199.
 
+- 9:00am - 9:30am: Coffee and pastries
 - 9:30am - 9:50am: [niivue](https://github.com/niivue/niivue#readme) - Chris Rorden [[slides](https://docs.google.com/presentation/d/1s8fWo5gkbJEo7Fl7CF1Nb6JWJZqFJ_BgHDsla_WjTx4/)]
 - 9:50am - 10:10am: [TRAKO](https://pypi.org/project/trako/) - Daniel Haehn
 - 10:10am - 10:30am: [brainlife](https://brainlife.io/about/) - Ilaria Sani
