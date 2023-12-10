@@ -42,7 +42,7 @@ If you are interested in participating, please fill out [this short form.](https
 - 9:00am - 9:30am: Coffee and pastries
 - 9:30am - 9:50am: [niivue](https://github.com/niivue/niivue#readme) - Chris Rorden [[slides](https://docs.google.com/presentation/d/1s8fWo5gkbJEo7Fl7CF1Nb6JWJZqFJ_BgHDsla_WjTx4/)]
 - 9:50am - 10:10am: [TRAKO](https://pypi.org/project/trako/) - Daniel Haehn
-- 10:10am - 10:30am: [brainlife](https://brainlife.io/about/) - Ilaria Sani
+- 10:10am - 10:30am: [brainlife](https://brainlife.io/about/) - Ilaria Sani & Franco Pestilli 
 - 10:30am - 10:50am: freebrowse - Paul Wighton
 - 10:50am - 3:30pm: Unstructured hacking time
 - 3:30pm - 4:00pm: Project summaries
