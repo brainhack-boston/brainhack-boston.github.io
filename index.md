@@ -1,8 +1,18 @@
+
+# Spring Brainhack Boston 2024
+## April 22nd and 23rd, 2024 <BR> Hosted at UMass Boston and virtually
+
 ### Register
 
 If you are interested in participating, please fill out [this short form.](https://forms.gle/Qurc8KkAsRMJbmCi9)
 
 ### About
+*Spring Brainhack Boston 2024* is being held as a hybrid event. The in-person location is at:
+
+**[UMass Boston Campus Center](https://maps.app.goo.gl/d34dhk1tU7y6Fu5U7)** <BR>
+Room U03-3000A (3rd floor, Point Lounge)
+
+**There are shuttle buses from the redline JFK/UMass that go right to the Campus Center.**
 
 *Spring Brainhack Boston 2024* is inspired by the [BRAIN Initiative CONNECTS program](https://www.ninds.nih.gov/news-events/highlights-announcements/nih-brain-initiative-launches-projects-develop-innovative-technologies-map-brain-incredible-detail), and particularly [CONNECTS projects on multi-modal imaging of fiber tracts](https://reporter.nih.gov/search/3TvO-D_5_0-AyCKL3EMDUg/projects). Topics of potential interest include:
 - Remote computation and visualization for large datasets
@@ -18,7 +28,9 @@ If you are interested in participating, please fill out [this short form.](https
 ### Schedule
 - All times below are EST.
 
-#### Monday, April 22nd, 2023
+#### Monday, April 22nd, 2024
+
+** TO DO: Update schedule, this is from last year **
 
 - 9:00am - 9:30am: Coffee and pastries
 - 9:30am - 9:50am: Welcome/intro to CONNECTS multi-modal imaging projects - Anastasia Yendiki
@@ -30,6 +42,8 @@ If you are interested in participating, please fill out [this short form.](https
 - 11:15am - 4:00pm: Unstructured hacking time
 
 #### Tuesday, April 23rd, 2023
+
+** TO DO: Update schedule, this is from last year **
 
 - 9:00am - 9:30am: Coffee and pastries
 - 9:30am - 9:50am: [niivue](https://github.com/niivue/niivue#readme) - Chris Rorden [[slides](https://docs.google.com/presentation/d/1s8fWo5gkbJEo7Fl7CF1Nb6JWJZqFJ_BgHDsla_WjTx4/)]
@@ -47,6 +61,7 @@ If you are interested in participating, please fill out [this short form.](https
 ### Contact
 
 - Email: 
+  - Daniel Haehn `daniel.haehn@umb.edu`
   - Kabilar Gunalan `kabi@mit.edu`
   - Anastasia Yendiki `ayendiki@mgh.harvard.edu`
 - [Mattermost Channel](https://mattermost.brainhack.org/brainhack/channels/bhg23-boston)
