@@ -1,3 +1,6 @@
+# Brainhack Boston 2023
+## December 11th and 13th, 2023 <BR> Hosted at MIT and virtually
+
 ### Register
 
 Registration for this event is now closed.
