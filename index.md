@@ -1,6 +1,9 @@
 
 # Spring Brainhack Boston 2024
-## April 22nd and 23rd, 2024 <BR> Hosted at UMass Boston and virtually
+### April 22nd and 23rd, 2024 <BR> Hosted at UMass Boston and virtually
+
+For previous events, see:
+- [Brainhack Boston 2023](index.2023.12.md)
 
 ### Register
 
@@ -70,7 +73,7 @@ Room U03-3000A (3rd floor, Point Lounge)
 
 We would like to thank our funders and institutions for supporting this event.
 
+- UMass Boston
 - NIH BRAIN CONNECTS - The center for Large-scale Imaging of Neural Circuits (LINC) (UM1 NS132358)
 - NIH BRAIN CONNECTS - Center for Mesoscale Connectomics (UM1 NS132207)
 - NIH BRAIN CONNECTS - Mapping connectivity of the human brainstem in a nuclear coordinate system (U01 NS132181)
-- Massachusetts Institute of Technology
