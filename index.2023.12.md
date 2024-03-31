@@ -1,6 +1,6 @@
 ### Register
 
-If you are interested in participating, please fill out [this short form.](https://forms.gle/Qurc8KkAsRMJbmCi9)
+Registration for this event is now closed.
 
 ### About
 
