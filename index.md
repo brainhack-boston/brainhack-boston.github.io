@@ -2,12 +2,13 @@
 # Spring Brainhack Boston 2024
 ### April 22nd and 23rd, 2024 <BR> Hosted at UMass Boston and virtually
 
-For previous events, see:
+### Past events
+
 - [Brainhack Boston 2023](index.2023.12.md)
 
 ### Register
 
-If you are interested in participating, please fill out [this short form.](https://forms.gle/LHGFpikgrJ8wybGcA)
+If you are interested in participating in our Spring 2024 Brainhack, please fill out [this short form.](https://forms.gle/LHGFpikgrJ8wybGcA)
 
 ### About
 *Spring Brainhack Boston 2024* is being held as a hybrid event. The in-person location is at:
