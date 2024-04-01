@@ -7,7 +7,7 @@ For previous events, see:
 
 ### Register
 
-If you are interested in participating, please fill out [this short form.](https://forms.gle/Qurc8KkAsRMJbmCi9)
+If you are interested in participating, please fill out [this short form.](https://forms.gle/LHGFpikgrJ8wybGcA)
 
 ### About
 *Spring Brainhack Boston 2024* is being held as a hybrid event. The in-person location is at:
@@ -26,14 +26,12 @@ Room U03-3000A (3rd floor, Point Lounge)
 
 - See the [open GitHub issues](https://github.com/brainhack-boston/brainhack-boston.github.io/issues).  Feel free to open an issue and describe a project that you are interested in working on!
 
-- Please join our [Mattermost Channel](https://mattermost.brainhack.org/brainhack/channels/bhg23-boston) which will be used during the event.
-
 ### Schedule
 - All times below are EST.
 
 #### Monday, April 22nd, 2024
 
-** TO DO: Update schedule, this is from last year **
+**TO DO: Update schedule, this is from last year**
 
 - 9:00am - 9:30am: Coffee and pastries
 - 9:30am - 9:50am: Welcome/intro to CONNECTS multi-modal imaging projects - Anastasia Yendiki
@@ -46,7 +44,7 @@ Room U03-3000A (3rd floor, Point Lounge)
 
 #### Tuesday, April 23rd, 2023
 
-** TO DO: Update schedule, this is from last year **
+**TO DO: Update schedule, this is from last year**
 
 - 9:00am - 9:30am: Coffee and pastries
 - 9:30am - 9:50am: [niivue](https://github.com/niivue/niivue#readme) - Chris Rorden [[slides](https://docs.google.com/presentation/d/1s8fWo5gkbJEo7Fl7CF1Nb6JWJZqFJ_BgHDsla_WjTx4/)]
@@ -67,7 +65,6 @@ Room U03-3000A (3rd floor, Point Lounge)
   - Daniel Haehn `daniel.haehn@umb.edu`
   - Kabilar Gunalan `kabi@mit.edu`
   - Anastasia Yendiki `ayendiki@mgh.harvard.edu`
-- [Mattermost Channel](https://mattermost.brainhack.org/brainhack/channels/bhg23-boston)
 
 ### Acknowledgements
 
