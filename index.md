@@ -32,29 +32,21 @@ Room U03-3000A (3rd floor, Point Lounge)
 
 #### Monday, April 22nd, 2024
 
-**TO DO: Update schedule, this is from last year**
+**Schedule coming soon**
 
-- 9:00am - 9:30am: Coffee and pastries
-- 9:30am - 9:50am: Welcome/intro to CONNECTS multi-modal imaging projects - Anastasia Yendiki
-- 9:50am - 10:10am: [BIDS connectivity standard](https://osf.io/u4g5p/) - Peer Herholz
-- 10:10am - 10:30am: [DANDI archive](https://dandiarchive.org/) - Kabilar Gunalan
-- 10:30am - 10:50am: [Neuroglancer](https://github.com/google/neuroglancer/#readme) - Yael Balbastre
-- 10:50am - 11:00am: Break
-- 11:00am - 11:15am: Project pitches
-- 11:15am - 4:00pm: Unstructured hacking time
+- ?? - ??: Welcome and introductions
+- ?? - ??: Lightning talks by [CS666](CS666.org) (Biomedical Signal and Image Processing) students and/or UMass Boston faculty
+- ?? - ??: Project pitches
+- ?? - ??: Unstructured hacking time
 
 #### Tuesday, April 23rd, 2023
 
-**TO DO: Update schedule, this is from last year**
+**Schedule coming soon**
 
-- 9:00am - 9:30am: Coffee and pastries
-- 9:30am - 9:50am: [niivue](https://github.com/niivue/niivue#readme) - Chris Rorden [[slides](https://docs.google.com/presentation/d/1s8fWo5gkbJEo7Fl7CF1Nb6JWJZqFJ_BgHDsla_WjTx4/)]
-- 9:50am - 10:10am: [TRAKO](https://pypi.org/project/trako/) - Daniel Haehn [[slides](https://slides.com/haehn/brainhack2023)]
-- 10:10am - 10:30am: [brainlife](https://brainlife.io/about/) - Ilaria Sani & Franco Pestilli 
-- 10:30am - 10:50am: freebrowse - Paul Wighton
-- 10:50am - 3:30pm: Unstructured hacking time
-- 3:30pm - 4:00pm: Project summaries
-- 4:00pm - onwards: Social? (TBD)
+- ?? - ??: Lightning talks by [CS666](CS666.org) (Biomedical Signal and Image Processing) students and/or UMass Boston faculty
+- ?? - ??: Unstructured hacking time
+- ?? - ??: Project summaries
+- ?? - ??: Wrap-up / social / TBD
 
 ###  Conduct
 
