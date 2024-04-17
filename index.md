@@ -41,9 +41,9 @@ Room U03-3000A (3rd floor, Point Lounge)
 #### Tuesday, April 23rd, 2023
 
 - 11:00am - 12:00pm: Lightning talks by [CS666](CS666.org) (Biomedical Signal and Image Processing) students and UMass Boston faculty
-- 12:00pm - 3:00pm: Unstructured hacking time
-- 3:00pm - 4:00pm: Project summaries
-- 4:00pm - onwards: Social TBD
+- 12:00pm - 4:00pm: Unstructured hacking time
+- 4:00pm - 5:00pm: Project summaries
+- 5:00pm - onwards: Social TBD
 
 ###  Conduct
 
