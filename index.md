@@ -16,12 +16,9 @@ If you are interested in participating in our Spring 2024 Brainhack, please fill
 **[UMass Boston Campus Center](https://maps.app.goo.gl/d34dhk1tU7y6Fu5U7)** <BR>
 Room U03-3000A (3rd floor, Point Lounge)
 
-**There are shuttle buses from the redline JFK/UMass that go right to the Campus Center.**
+**Zoom link: https://mpsych.org/zoom/**
 
-*Spring Brainhack Boston 2024* is inspired by the [BRAIN Initiative CONNECTS program](https://www.ninds.nih.gov/news-events/highlights-announcements/nih-brain-initiative-launches-projects-develop-innovative-technologies-map-brain-incredible-detail), and particularly [CONNECTS projects on multi-modal imaging of fiber tracts](https://reporter.nih.gov/search/3TvO-D_5_0-AyCKL3EMDUg/projects). Topics of potential interest include:
-- Remote computation and visualization for large datasets
-- Integration of imaging data across modalities and scales
-- Standardization and visualization of fiber tract data
+**There are shuttle buses from the redline JFK/UMass that go right to the Campus Center.**
 
 ### Projects
 
@@ -32,18 +29,24 @@ Room U03-3000A (3rd floor, Point Lounge)
 
 #### Monday, April 22nd, 2024
 
-- 11:00am - 11:15am: Welcome and introductions
-- 11:15am - 12:15pm: Lightning talks by [CS666](https://CS666.org) (Biomedical Signal and Image Processing) students and UMass Boston faculty
-- 12:15pm - 12:30pm: Break
-- 12:30pm - 1:00pm: Project pitches
-- 1:00pm - 5:00pm Unstructured hacking time
+- 11:00 Welcome (Daniel Haehn)
+- 11:10 Boostlet.js Current state (Edward Gaibor)
+- 11:20 Web-based Melanoma Detection (SangHyuk Kim)
+- 11:30 Uncertainty Visualization (Mahsa Geshvadi)
+- 11:40 CACTAS (Jenna Kim) 
+- 12:00 Lunch w/ Project pitches
+- 01:00 - 05:00p Hacking time
 
 #### Tuesday, April 23rd, 2023
 
-- 11:00am - 12:00pm: Lightning talks by [CS666](https://CS666.org) (Biomedical Signal and Image Processing) students and UMass Boston faculty
-- 12:00pm - 4:00pm: Unstructured hacking time
-- 4:00pm - 5:00pm: Project summaries
-- 5:00pm - onwards: Social TBD
+- 09:00 - 11:00a Hacking time
+- 11:00 Updates (Daniel Haehn)
+- 11:10 Statistical Learning for Neuroimaging (David Degras via Zoom)
+- 11:30 GL-based Image Processing through JS Injection (Tim Meyer)
+- 11:40 Brainlife.io updates (Franco Pestilli via Zoom)
+- 11:50 TBA
+- 12:30 Lunch@VDC (MassBio Lunch&Learn, please register here https://forms.gle/L6eYW8atTYcfxKib7)
+- 01:00 - 05:00p Hacking time
 
 ###  Conduct
 
