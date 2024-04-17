@@ -32,21 +32,18 @@ Room U03-3000A (3rd floor, Point Lounge)
 
 #### Monday, April 22nd, 2024
 
-**Schedule coming soon**
-
-- ?? - ??: Welcome and introductions
-- ?? - ??: Lightning talks by [CS666](CS666.org) (Biomedical Signal and Image Processing) students and/or UMass Boston faculty
-- ?? - ??: Project pitches
-- ?? - ??: Unstructured hacking time
+- 11:00am - 11:15am: Welcome and introductions
+- 11:15am - 12:15pm: Lightning talks by [CS666](CS666.org) (Biomedical Signal and Image Processing) students and UMass Boston faculty
+- 12:15pm - 12:30pm: Break
+- 12:30pm - 1:00pm: Project pitches
+- 1:00pm - 5:00pm Unstructured hacking time
 
 #### Tuesday, April 23rd, 2023
 
-**Schedule coming soon**
-
-- ?? - ??: Lightning talks by [CS666](CS666.org) (Biomedical Signal and Image Processing) students and/or UMass Boston faculty
-- ?? - ??: Unstructured hacking time
-- ?? - ??: Project summaries
-- ?? - ??: Wrap-up / social / TBD
+- 11:00am - 12:00pm: Lightning talks by [CS666](CS666.org) (Biomedical Signal and Image Processing) students and UMass Boston faculty
+- 12:00pm - 4:00pm: Unstructured hacking time
+- 4:00pm - 5:00pm: Project summaries
+- 5:00pm - onwards: Social TBD
 
 ###  Conduct
 
