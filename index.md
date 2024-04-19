@@ -48,7 +48,7 @@ Room U03-3000A (3rd floor, Point Lounge)
 - 11:30 GL-based Image Processing through JS Injection (Tim Meyer)
 - 11:40 Brainlife.io updates (Franco Pestilli via Zoom)
 - 11:50 TBA
-- 12:30 Lunch@VDC (MassBio Lunch&Learn, please register here https://forms.gle/L6eYW8atTYcfxKib7)
+- 12:30 Lunch@VDC (MassBio Lunch&Learn, please register [here](https://forms.gle/L6eYW8atTYcfxKib7))
 - 01:00 - 05:00p Hacking time
 
 ###  Conduct
