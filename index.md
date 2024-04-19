@@ -13,12 +13,15 @@ If you are interested in participating in our Spring 2024 Brainhack, please fill
 ### About
 *Spring Brainhack Boston 2024* is being held as a hybrid event. The in-person location is at:
 
-**[UMass Boston Campus Center](https://maps.app.goo.gl/d34dhk1tU7y6Fu5U7)** <BR>
+**MONDAY: [UMass Boston Integrated Science Center](https://maps.app.goo.gl/5RswvvQ4iATKBYQC8)**<BR>
+3rd Floor Atrium
+
+**TUESDAY: [UMass Boston Campus Center](https://maps.app.goo.gl/d34dhk1tU7y6Fu5U7)** <BR>
 Room U03-3000A (3rd floor, Point Lounge)
 
-**Zoom link: https://mpsych.org/zoom/**
+**Zoom link: [https://mpsych.org/zoom/](https://mpsych.org/zoom/)**
 
-**There are shuttle buses from the redline JFK/UMass that go right to the Campus Center.**
+**There are shuttle buses from the redline JFK/UMass that go right to the Campus Center ([Map](https://www.umb.edu/map/))**
 
 ### Projects
 
@@ -27,7 +30,7 @@ Room U03-3000A (3rd floor, Point Lounge)
 ### Schedule
 - All times below are EST.
 
-#### Monday, April 22nd, 2024
+#### Monday, April 22nd, 2024 (UMass Boston ISC 3rd Floor Atrium)
 
 - 11:00 Welcome (Daniel Haehn)
 - 11:10 Boostlet.js Current state (Edward Gaibor)
@@ -37,7 +40,7 @@ Room U03-3000A (3rd floor, Point Lounge)
 - 12:00 Lunch w/ Project pitches
 - 01:00 - 05:00p Hacking time
 
-#### Tuesday, April 23rd, 2023
+#### Tuesday, April 23rd, 2023 (UMass Boston, Campus Center 3rd Floor Point Lounge)
 
 - 09:00 - 11:00a Hacking time
 - 11:00 Updates (Daniel Haehn)
