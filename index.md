@@ -37,7 +37,7 @@ Room U03-3000A (3rd floor, Point Lounge)
 - 11:20 Web-based Melanoma Detection (SangHyuk Kim)
 - 11:30 Uncertainty Visualization (Mahsa Geshvadi)
 - 11:40 CACTAS (Jenna Kim) 
-- 12:00 Lunch w/ Project pitches
+- 12:00 Lunch (Panera) w/ Project pitches
 - 01:00 - 05:00p Hacking time
 
 #### Tuesday, April 23rd, 2023 (UMass Boston, Campus Center 3rd Floor Point Lounge)
@@ -47,7 +47,7 @@ Room U03-3000A (3rd floor, Point Lounge)
 - 11:10 Statistical Learning for Neuroimaging (David Degras via Zoom)
 - 11:30 GL-based Image Processing through JS Injection (Tim Meyer)
 - 11:40 Brainlife.io updates (Franco Pestilli via Zoom)
-- 11:50 TBA
+- 11:50 AI models for Analysis of Cancer Images (Kourosh Zarringhalam via Zoom)
 - 12:30 Lunch@VDC (MassBio Lunch&Learn, please register [here](https://forms.gle/L6eYW8atTYcfxKib7))
 - 01:00 - 05:00p Hacking time
 
