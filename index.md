@@ -45,6 +45,7 @@ Room U03-3000A (3rd floor, Point Lounge)
 - 09:00 - 11:00a Hacking time
 - 11:00 Updates (Daniel Haehn)
 - 11:10 Statistical Learning for Neuroimaging (David Degras via Zoom)
+- 11:20 Brain Stimulation (Sumientra Rampersad via Zoom)
 - 11:30 GL-based Image Processing through JS Injection (Tim Meyer)
 - 11:40 Brainlife.io updates (Franco Pestilli via Zoom)
 - 11:50 AI models for Analysis of Cancer Images (Kourosh Zarringhalam via Zoom)
