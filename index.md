@@ -21,6 +21,8 @@ Room U03-3000A (3rd floor, Point Lounge)
 
 **Zoom link: [https://mpsych.org/zoom/](https://mpsych.org/zoom/)**
 
+**Brainhack @ UMB Discord server: [https://bit.ly/brainhackUMB24](https://bit.ly/brainhackUMB24)**
+
 **There are shuttle buses from the redline JFK/UMass that go right to the Campus Center ([Map](https://www.umb.edu/map/))**
 
 ### Projects
