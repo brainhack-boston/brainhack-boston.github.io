@@ -30,14 +30,14 @@ Room 3E33
 
 ### Projects
 
-1. Assemble and document a package of converters between CONNECTS image formats
-[https://github.com/lincbrain/linc-convert](https://github.com/lincbrain/linc-convert)
+**1. Assemble and document a package of converters between CONNECTS image formats**
+
+The CONNECTS program will be generating imaging data from a variety of modalities, including diffusion MRI, optical and X-ray microscopy. Most of these images will be too large to hold in memory all at once, and thus the [OME-Zarr](https://link.springer.com/article/10.1007/s00418-023-02209-1) format, which allows storing and accessing large images in chunks, has been agreed upon as the common standard of choice for these data. However, the raw data are being generated in a variety of different formats, including .jp2, .tif, and .mat. The LINC project has a [collection of scripts](https://github.com/lincbrain/linc-convert) for converting these formats to OME-Zarr. The goal of this project is to assemble these scripts into a package and add testing and documentation.
+
+**2. Structure tensor analysis to visualize white-matter texture from HiP-CT data**
 ...
 
-2. Structure tensor analysis to visualize white-matter texture from HiP-CT data
-...
-
-3. Registration of ex vivo dMRI brain datasets to in vivo MRI templates
+**3. Registration of ex vivo dMRI brain datasets to in vivo MRI templates**
 ...
 
 ### Schedule
