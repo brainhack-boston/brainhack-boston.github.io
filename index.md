@@ -39,7 +39,8 @@ The CONNECTS program will be generating imaging data from a variety of modalitie
 The [structure tensor](https://en.wikipedia.org/wiki/Structure_tensor) contains the gradient of an image in different directions in a local neighborhood around a voxel, hence it captures the directionality of the texture of the image around the voxel. [Hierarchical Phase-Contrast Tomography (HiP-CT)](https://mecheng.ucl.ac.uk/hip-ct/) is an X-ray technique for ex vivo imaging of intact organs, including whole human brains, with ten times the resolution of a medical CT scanner. The goal of this project is to compare different approaches to structure tensor analysis of HiP-CT images, in terms of their computational efficiency and their fidelity to the underlying white-matter architecture.
 
 **3. Registration of ex vivo dMRI brain datasets to in vivo MRI templates**
-...
+
+Aligning ex vivo dMRI brain scans to in vivo brain templates is complicated by morphological differences (nonlinear distortions of ex vivo brains after extraction from the skull) and differences in image contrast (esp. when the target of the alignment is a T1 or T2 in vivo template). The goal of this project is to test different strategies for preprocessing the source and/or target images to improve this alignment, including automated segmentation or contrast synthesis.
 
 ### Schedule
 - All times below are EST.
