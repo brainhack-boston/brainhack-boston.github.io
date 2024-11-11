@@ -2,10 +2,6 @@
 # Brainhack Boston 2024
 ### November 21st and 22nd, 2024 <BR> Hosted at MGB Assembly Row and virtually
 
-### Past events
-- [Spring Brainhack Boston 2024](index.2024.04.md)
-- [Brainhack Boston 2023](index.2023.12.md)
-
 ### Register
 
 If you are interested in participating in our 2024 Brainhack, please fill out [this short form.](https://forms.gle/rjnX8opcLvorguEk8)
@@ -15,18 +11,18 @@ Brainhack Boston 2024 is organized in coordination with Brainhack Global 2024.
 
 Brainhack Global is a unique conference that convenes researchers from across the globe and a myriad of disciplines to work together on innovative projects related to neuroscience.
 
-Brainhack Boston 2024 is focused on tool development for the [BRAIN Initiative CONNECTS program](https://www.ninds.nih.gov/news-events/highlights-announcements/nih-brain-initiative-launches-projects-develop-innovative-technologies-map-brain-incredible-detail), and particularly CONNECTS projects on multi-modal imaging of fiber tracts. These projects aim to collect, analyze, and integrate diffusion MRI and microscopy data towards constructing a multi-scale human connectome.
+Brainhack Boston 2024 is focused on tool development for the [BRAIN Initiative CONNECTS program](https://www.ninds.nih.gov/news-events/highlights-announcements/nih-brain-initiative-launches-projects-develop-innovative-technologies-map-brain-incredible-detail), and particularly [CONNECTS projects on multi-modal imaging of fiber tracts](https://reporter.nih.gov/search/Gv18N9u3AUeBAKNSlbkxuA/projects?sort_field=ic_serial_num&sort_order=desc). These projects aim to collect, analyze, and integrate diffusion MRI and microscopy data towards constructing a multi-scale human connectome.
 
 **In-person location:**
-MGB Assembly Row
-[399 Revolution Dr, Somerville, MA 02145](https://maps.app.goo.gl/rBJ9CdUx3ntQdbcV9)
-Room 3E33
+
+MGB Assembly Row, room 3E33<BR>
+[399 Revolution Dr, Somerville, MA 02145](https://maps.app.goo.gl/rBJ9CdUx3ntQdbcV9)<BR>
 
 **Zoom link:**
-... TBD ...
+[https://partners.zoom.us/j/84748902367](https://partners.zoom.us/j/84748902367)
 
-**Discord channel:**
-... TBD ...
+**Mattermost channel:**
+[https://mattermost.brainhack.org/brainhack/channels/bgh24-boston](https://mattermost.brainhack.org/brainhack/channels/bgh24-boston)
 
 ### Projects
 
@@ -72,3 +68,8 @@ We would like to thank our funders and institutions for supporting this event.
 - NIH BRAIN CONNECTS - The center for Large-scale Imaging of Neural Circuits (LINC) (UM1 NS132358)
 - NIH BRAIN CONNECTS - Center for Mesoscale Connectomics (UM1 NS132207)
 - NIH BRAIN CONNECTS - Mapping connectivity of the human brainstem in a nuclear coordinate system (U01 NS132181)
+
+### Past events
+- [Spring Brainhack Boston 2024](index.2024.04.md)
+- [Brainhack Boston 2023](index.2023.12.md)
+
