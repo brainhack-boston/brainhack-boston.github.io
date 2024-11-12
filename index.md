@@ -31,7 +31,7 @@ MGB Assembly Row, room 3E33<BR>
 The CONNECTS program will be generating imaging data from a variety of modalities, including diffusion MRI, optical and X-ray microscopy. Most of these images will be too large to hold in memory all at once, and thus the [OME-Zarr](https://link.springer.com/article/10.1007/s00418-023-02209-1) format, which allows storing and accessing large images in chunks, has been agreed upon as the common standard of choice for these data. However, the raw data are being generated in a variety of different formats, including .jp2, .tif, and .mat. The LINC project has a [collection of scripts](https://github.com/lincbrain/linc-convert) for converting these formats to OME-Zarr. The goal of this project is to assemble these scripts into a package and add testing and documentation.
 
 Tasks:
--  Abstract writing of higher-level images across modalities
+-  Abstract the writing of higher-level images across modalities
 -  Port OCT conversion script into package
 -  Add support for multiple Zarr backends
 -  Save conversion options in output file
@@ -52,7 +52,8 @@ Tasks:
 
 Aligning ex vivo dMRI brain scans to in vivo brain templates is complicated by morphological differences (nonlinear distortions of ex vivo brains after extraction from the skull) and differences in image contrast (esp. when the target of the alignment is a T1 or T2 in vivo template). The goal of this project is to test different strategies for preprocessing the source and/or target images to improve this alignment, including automated segmentation or contrast synthesis.
 
-- Try samseg with NEXTbrain atlas to segment dMRI data (and atlas if needed) - see [documentation](https://surfer.nmr.mgh.harvard.edu/fswiki/HistoAtlasSegmentation)
+Tasks:
+- Try samseg with NextBrain atlas to segment dMRI data (and atlas if needed) - see [documentation](https://surfer.nmr.mgh.harvard.edu/fswiki/HistoAtlasSegmentation)
 - Compose deformation fields from the above step to co-register between dMRI and atlas
 - Use conventional registration on the segmentation maps instead of the raw images
 
