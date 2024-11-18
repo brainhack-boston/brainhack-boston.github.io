@@ -44,9 +44,10 @@ The [structure tensor](https://en.wikipedia.org/wiki/Structure_tensor) contains 
 
 Tasks:
 -  Compare MGH and UCL implementations of structure tensor on HiP-CT data from sample I58 (need permission to repos)
+-  Anisotropy vector from UMinn/Oxford team
 -  Add GPU support to MGH version
--  Optimize processing paremeters (filter width etc)
--  Apply to LSM data from macaque sections with different markers (need data uploaded)
+-  Optimize processing paremeters (kernel size, input resolution, etc)
+-  Apply to LSM data (LENS human brainstem DiI, LINC macaque sections neurofilament)
 
 **3. Registration of ex vivo dMRI brain datasets to in vivo MRI templates**
 
@@ -56,6 +57,7 @@ Tasks:
 - Try samseg with NextBrain atlas to segment dMRI data (and atlas if needed) - see [documentation](https://surfer.nmr.mgh.harvard.edu/fswiki/HistoAtlasSegmentation)
 - Compose deformation fields from the above step to co-register between dMRI and atlas
 - Use conventional registration on the segmentation maps instead of the raw images
+- CMC approach to registration to NMT (fnirt or mmorph)
 
 ### Schedule
 - All times below are EST.
