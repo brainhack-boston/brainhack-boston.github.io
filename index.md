@@ -32,7 +32,6 @@ The CONNECTS program will be generating imaging data from a variety of modalitie
 
 Tasks:
 -  Abstract the writing of higher-level images across modalities
--  Port OCT conversion script into package
 -  Add support for multiple Zarr backends
 -  Save conversion options in output file
 -  Generate small test datasets
